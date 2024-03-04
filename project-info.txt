@@ -1,0 +1,17 @@
+Prerequisite: The pre-requisites for this project are:
+
+React
+Function Components
+ReactJS AJAX and API
+useState
+
+
+Create a folder called components and add two files in it Button.js and Joke.js
+
+Example: Write the following code in respective files.
+
+App.js: This file imports the components to render it on the web page
+Joke.js: This file contains the joke to be displayed and makes the API call
+Joke.css: This file contains the styling of all the elements 
+Button.js: This file contains the button component which generates the joke on click
+Button.css: This file contains the styling of button element
